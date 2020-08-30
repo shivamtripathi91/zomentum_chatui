@@ -1,5 +1,6 @@
 # zomentum_chatui
 Frontend Problem Statement Hiring Assignment - UI for a chat application named chatui
+#### "chatui" is the main folder/branch for the chat app UI, "readme_Images" just contains the images to the steps involved to run the project and output preview of the project which all have been attached/shown in this document "README.md" below
 
 ---
 <br/>
