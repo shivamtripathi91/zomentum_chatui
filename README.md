@@ -22,7 +22,8 @@ Frontend Problem Statement Hiring Assignment - UI for a chat application named c
 ![](readme_Images/5.png)
 
 > To edit the project in visual code, one can type the command "code ." in cmd in place of step 3 and onwards.
-> Software and Libarary Requirement: Reactjs, npx-npm, Nodejs, React Hooks, Visual Code with other dependencies like faker for text generation.
+
+###### Software and Libarary Requisite: Reactjs, npx-npm, Nodejs, React Hooks, Visual Code with other dependencies like faker for text generation.
 <br/>
 
 ---
